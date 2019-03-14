@@ -3,7 +3,8 @@
 The video demonstrating these steps is at 
 https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1191e974-225b-4358-a5ff-a9ed013548bc
 
-If you would like an account as part of the PisanAWSBasic classroom to
+You can get an independent account via https://aws.amazon.com/education/awseducate/
+OR if you would like an account as part of the PisanAWSBasic classroom to
 have your own AWS instance, email me at pisan@uw.edu (UW Students
 only. Invitations will be to your official UW email address)
 
